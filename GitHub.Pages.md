@@ -30,5 +30,5 @@ git push -u origin main
 ~~~
 
 5. …and you're done!
-Fire up a browser and go to https://mcastle23.github.io.
+Fire up a browser and go to https://username.github.io.
 
