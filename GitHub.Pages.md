@@ -7,7 +7,7 @@
 Go to the folder where you want to store your project, and clone the new repository:
 
 ~~~bash
-  git clone https://github.com/mcastle23/mcastle23.github.io
+  git clone https://github.com/username/username.github.io
 ~~~
 
 3. Hello World
